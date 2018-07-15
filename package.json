@@ -10,7 +10,7 @@
     "pub": "npm publish --access public"
   },
   "files": [
-    "./dist"
+    "dist/**/*"
   ],
   "devDependencies": {
     "@types/react": "^16.4.6",
